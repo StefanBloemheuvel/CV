@@ -291,6 +291,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT stefan_bloemheuvel_resume.bbl
+INPUT stefan_bloemheuvel_resume.bbl
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT stefan_bloemheuvel_resume.aux
 INPUT ./stefan_bloemheuvel_resume.out

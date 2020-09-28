@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{atzmueller2019framework}
+Martin Atzmueller, Stefan Bloemheuvel, and Benjamin Kloepper.
+\newblock A framework for human-centered exploration of complex event log
+  graphs.
+\newblock In {\em International Conference on Discovery Science}, pages
+  335--350. Springer, 2019.
+
+\bibitem{bloemheuvel2019graph}
+Stefan Bloemheuvel, Benjamin Kloepper, and Martin Atzmueller.
+\newblock Graph summarization for computational sensemaking on complex
+  industrial event logs.
+\newblock In {\em International Conference on Business Process Management},
+  pages 417--429. Springer, 2019.
+
+\end{thebibliography}

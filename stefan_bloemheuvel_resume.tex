@@ -30,10 +30,11 @@
 %\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
 %\makeatother
 
-%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
+
 \begin{document}
 \maketitle
 
@@ -63,6 +64,9 @@ Working in the INTERREG Di-Plast to digitalize the Plastics Recycling Industry
 	Research into the Dutch housing market at TiSEM (Tilburg School of Economics and Management) and TIAS (School for Business and Society)
 }
 
+\nocite{*} % <==========================================================
+\bibliographystyle{unsrt}
+\bibliography{publications} % To use bib file created by filecontents
 
 
 \end{document}
