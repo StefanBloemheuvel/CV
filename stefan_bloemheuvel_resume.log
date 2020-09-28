@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  29 AUG 2020 20:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  28 SEP 2020 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1016,11 +1016,11 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 ) [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
  (./stefan_bloemheuvel_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
 Package rerunfilecheck Info: File `stefan_bloemheuvel_resume.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: 10052DAA135A4379E1D96EC19FE2F37F;284.
@@ -1040,7 +1040,7 @@ ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2019/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/marv
 osym/marvosym.pfb>
-Output written on stefan_bloemheuvel_resume.pdf (1 page, 125519 bytes).
+Output written on stefan_bloemheuvel_resume.pdf (1 page, 125731 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
