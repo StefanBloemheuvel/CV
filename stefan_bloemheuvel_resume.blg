@@ -1,53 +1,55 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: stefan_bloemheuvel_resume.aux
-The style file: acm.bst
+The style file: unsrt.bst
 Database file #1: publications.bib
 Repeated entry---line 43 of file publications.bib
  : @inproceedings{bloemheuvel2019graph
  :                                    ,
 I'm skipping whatever remains of this entry
-Warning--empty journal in bloemheuvelenhancing
 Warning--empty journal in vandi
+Warning--empty year in vandi
+Warning--empty journal in bloemheuvelenhancing
+Warning--empty year in bloemheuvelenhancing
 You've used 6 entries,
-            2253 wiz_defined-function locations,
-            554 strings with 5093 characters,
-and the built_in function-call counts, 1947 in all, are:
-= -- 189
-> -- 97
-< -- 0
-+ -- 42
-- -- 34
-* -- 129
-:= -- 329
-add.period$ -- 17
+            1791 wiz_defined-function locations,
+            472 strings with 4732 characters,
+and the built_in function-call counts, 1358 in all, are:
+= -- 119
+> -- 62
+< -- 2
++ -- 23
+- -- 17
+* -- 78
+:= -- 217
+add.period$ -- 18
 call.type$ -- 6
-change.case$ -- 34
+change.case$ -- 5
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 81
-empty$ -- 142
-format.name$ -- 34
-if$ -- 403
+cite$ -- 10
+duplicate$ -- 72
+empty$ -- 127
+format.name$ -- 17
+if$ -- 308
 int.to.chr$ -- 0
 int.to.str$ -- 6
 missing$ -- 5
 newline$ -- 31
-num.names$ -- 12
-pop$ -- 41
+num.names$ -- 6
+pop$ -- 29
 preamble$ -- 1
-purify$ -- 29
+purify$ -- 0
 quote$ -- 0
-skip$ -- 55
+skip$ -- 36
 stack$ -- 0
-substring$ -- 88
-swap$ -- 24
-text.length$ -- 0
+substring$ -- 56
+swap$ -- 21
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
-warning$ -- 2
-while$ -- 18
+type$ -- 0
+warning$ -- 4
+while$ -- 12
 width$ -- 7
-write$ -- 59
+write$ -- 61
 (There was 1 error message)

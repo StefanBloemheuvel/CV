@@ -1,39 +1,40 @@
 \begin{thebibliography}{1}
 
-\bibitem{atzmueller2019framework}
-{\sc Atzmueller, M., Bloemheuvel, S., and Kloepper, B.}
-\newblock A framework for human-centered exploration of complex event log
-  graphs.
-\newblock In {\em International Conference on Discovery Science\/} (2019),
-  Springer, Cham, pp.~335--350.
-
-\bibitem{bloemheuvel2019graph}
-{\sc Bloemheuvel, S.}
-\newblock {\em Graph Summarization of Industrial Event Log Data}.
-\newblock PhD thesis, Tilburg University, 2019.
-
-\bibitem{bloemheuvel2015stratification}
-{\sc Bloemheuvel, S., Atzmueller, M., and Postma, M.}
-\newblock Stratification-oriented analysis of community structure in networks
-  of face-to-face proximity.
-\newblock In {\em Behavioral Analytics in Social and Ubiquitous Environments}.
-  Springer, Cham, 2015, pp.~28--43.
-
 \bibitem{bloemheuvel2018evolution}
-{\sc Bloemheuvel, S., Atzmueller, M., and Postma, M.}
+Stefan Bloemheuvel, Martin Atzmueller, and Marie Postma.
 \newblock Evolution of contacts and communities in social interaction networks
   of face-to-face proximity.
 \newblock {\em Proceedings of BNAIC. Jheronimus Academy of Data Science, Den
-  Bosch, The Netherlands\/} (2018).
+  Bosch, The Netherlands}, 2018.
+
+\bibitem{atzmueller2019framework}
+Martin Atzmueller, Stefan Bloemheuvel, and Benjamin Kloepper.
+\newblock A framework for human-centered exploration of complex event log
+  graphs.
+\newblock In {\em International Conference on Discovery Science}, pages
+  335--350. Springer, Cham, 2019.
+
+\bibitem{bloemheuvel2015stratification}
+Stefan Bloemheuvel, Martin Atzmueller, and Marie Postma.
+\newblock Stratification-oriented analysis of community structure in networks
+  of face-to-face proximity.
+\newblock In {\em Behavioral Analytics in Social and Ubiquitous Environments},
+  pages 28--43. Springer, Cham, 2015.
+
+\bibitem{vandi}
+Jurgen Van Den~Hoogen, Stefan Bloemheuvel, and Martin Atzmueller.
+\newblock The di-plast data science toolkit--enabling a smart data-driven
+  digital circular economy for the plastics industry.
 
 \bibitem{bloemheuvelenhancing}
-{\sc Bloemheuvel, S., Kloepper, B., Van Den~Hoogen, J., and Atzmueller, M.}
+Stefan Bloemheuvel, Benjamin Kloepper, Jurgen Van Den~Hoogen, and Martin
+  Atzmueller.
 \newblock Enhancing sequential pattern mining explainability with markov chain
   probabilities.
 
-\bibitem{vandi}
-{\sc Van Den~Hoogen, J., Bloemheuvel, S., and Atzmueller, M.}
-\newblock The di-plast data science toolkit--enabling a smart data-driven
-  digital circular economy for the plastics industry.
+\bibitem{bloemheuvel2019graph}
+Stefan Bloemheuvel.
+\newblock {\em Graph Summarization of Industrial Event Log Data}.
+\newblock PhD thesis, Tilburg University, 2019.
 
 \end{thebibliography}
